@@ -2,6 +2,8 @@
 
 This repository contains course material (codes, exercises) of the Sharif University data mining challenge. 
 
+![](poster.jpg)
+
 ### The requirements
 
   1. **Linux** is always recommended as OS! 
