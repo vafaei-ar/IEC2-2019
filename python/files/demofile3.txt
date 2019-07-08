@@ -1,0 +1,4 @@
+Hello!
+How are you?
+Goodbye!
+Now the file has more content!
